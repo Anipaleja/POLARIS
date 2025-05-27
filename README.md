@@ -2,7 +2,7 @@
 
 **Predictive Observation Lab for AI-Resilient Infrastructure & Sustainability**
 
-POLARIS is a cutting-edge AI-powered geospatial intelligence platform that forecasts climate risks, assesses infrastructure resilience, and generates high-resolution vulnerability maps using satellite imagery and machine learning.
+POLARIS is a cutting edge AI powered geospatial intelligence platform that forecasts climate risks, assesses infrastructure resilience, and generates high resolution vulnerability maps using satellite imagery and machine learning.
 
 Built for researchers, policymakers, and cities navigating the age of climate change, POLARIS fuses Earth observation data, climate models, and advanced neural networks into a powerful real-world impact tool.
 
