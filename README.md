@@ -4,7 +4,7 @@
 
 POLARIS is a cutting edge AI powered geospatial intelligence platform that forecasts climate risks, assesses infrastructure resilience, and generates high resolution vulnerability maps using satellite imagery and machine learning.
 
-Built for researchers, policymakers, and cities navigating the age of climate change, POLARIS fuses Earth observation data, climate models, and advanced neural networks into a powerful real-world impact tool.
+Built for researchers, policymakers, and cities navigating the age of climate change, POLARIS fuses Earth observation data, climate models, and advanced neural networks into a powerful real world impact tool.
 
 
 ## Why POLARIS?
@@ -28,7 +28,7 @@ Natural disasters are accelerating. Infrastructure is aging. Communities are vul
 
 - **Equity-Aware Insights**: Overlays socioeconomic data to assess which communities are most at risk. 
 
-- **Interactive Map Dashboard**: Real-time frontend built in React + Mapbox for exploring live and historical risk layers. 
+- **Interactive Map Dashboard**: Real time frontend built in React + Mapbox for exploring live and historical risk layers. 
 
 - **FastAPI Backend**: RESTful API serving predictions, maps, and geospatial intelligence to third-party systems. 
 
